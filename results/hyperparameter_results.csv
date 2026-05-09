@@ -1,0 +1,4 @@
+Hidden Layers,Max Iterations,Accuracy
+"(16,)",100,0.82
+"(32,16)",200,0.85
+"(64,32)",300,0.87
